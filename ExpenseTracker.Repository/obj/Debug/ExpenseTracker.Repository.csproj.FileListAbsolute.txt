@@ -1,0 +1,11 @@
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb

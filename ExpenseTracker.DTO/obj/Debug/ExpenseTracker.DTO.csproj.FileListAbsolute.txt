@@ -1,0 +1,5 @@
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Dev\building-securing-restful-api-aspdotnet\expense-tracker\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
